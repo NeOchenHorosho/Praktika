@@ -1,0 +1,9 @@
+/home/neochen/Documents/Praktika/Drawer/build/Desktop-Debug/CMakeFiles/Drawer.dir
+/home/neochen/Documents/Praktika/Drawer/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/neochen/Documents/Praktika/Drawer/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/neochen/Documents/Praktika/Drawer/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/neochen/Documents/Praktika/Drawer/build/Desktop-Debug/CMakeFiles/install.dir
+/home/neochen/Documents/Praktika/Drawer/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/neochen/Documents/Praktika/Drawer/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/neochen/Documents/Praktika/Drawer/build/Desktop-Debug/CMakeFiles/Drawer_autogen_timestamp_deps.dir
+/home/neochen/Documents/Praktika/Drawer/build/Desktop-Debug/CMakeFiles/Drawer_autogen.dir

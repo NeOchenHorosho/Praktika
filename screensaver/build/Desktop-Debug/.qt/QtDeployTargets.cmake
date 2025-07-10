@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_screensaver_FILE /home/neochen/Documents/Praktika/screensaver/build/Desktop-Debug/screensaver)
+set(__QT_DEPLOY_TARGET_screensaver_TYPE EXECUTABLE)

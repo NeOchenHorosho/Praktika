@@ -1,0 +1,27 @@
+# ninja log v6
+2	162	1752157107701330901	screensaver_autogen/timestamp	295712b13b1d546d
+2	162	1752157107701330901	screensaver_autogen/mocs_compilation.cpp	295712b13b1d546d
+2	162	1752157107701330901	/home/neochen/Documents/Praktika/screensaver/build/Desktop-Debug/screensaver_autogen/timestamp	295712b13b1d546d
+2	162	1752157107701330901	/home/neochen/Documents/Praktika/screensaver/build/Desktop-Debug/screensaver_autogen/mocs_compilation.cpp	295712b13b1d546d
+163	1237	1752157107709835490	CMakeFiles/screensaver.dir/screensaver_autogen/mocs_compilation.cpp.o	bfc8288482f13302
+163	1243	1752157107710504715	CMakeFiles/screensaver.dir/main.cpp.o	4b7f5a026de96c26
+163	1485	1752157107710651030	CMakeFiles/screensaver.dir/mainwindow.cpp.o	f8570919764d92d4
+1485	1682	1752157109031330894	screensaver	4fb2487fbd49b0fe
+2	24	1752157229517330246	screensaver_autogen/timestamp	295712b13b1d546d
+2	24	1752157229517330246	screensaver_autogen/mocs_compilation.cpp	295712b13b1d546d
+2	24	1752157229517330246	/home/neochen/Documents/Praktika/screensaver/build/Desktop-Debug/screensaver_autogen/timestamp	295712b13b1d546d
+2	24	1752157229517330246	/home/neochen/Documents/Praktika/screensaver/build/Desktop-Debug/screensaver_autogen/mocs_compilation.cpp	295712b13b1d546d
+24	1288	1752157229539330246	CMakeFiles/screensaver.dir/mainwindow.cpp.o	f8570919764d92d4
+1288	1485	1752157230803330239	screensaver	4fb2487fbd49b0fe
+2	24	1752157238935330195	screensaver_autogen/timestamp	295712b13b1d546d
+2	24	1752157238935330195	screensaver_autogen/mocs_compilation.cpp	295712b13b1d546d
+2	24	1752157238935330195	/home/neochen/Documents/Praktika/screensaver/build/Desktop-Debug/screensaver_autogen/timestamp	295712b13b1d546d
+2	24	1752157238935330195	/home/neochen/Documents/Praktika/screensaver/build/Desktop-Debug/screensaver_autogen/mocs_compilation.cpp	295712b13b1d546d
+24	1299	1752157238956330195	CMakeFiles/screensaver.dir/mainwindow.cpp.o	f8570919764d92d4
+1299	1494	1752157240231330188	screensaver	4fb2487fbd49b0fe
+2	23	1752158139153325349	screensaver_autogen/timestamp	295712b13b1d546d
+2	23	1752158139153325349	screensaver_autogen/mocs_compilation.cpp	295712b13b1d546d
+2	23	1752158139153325349	/home/neochen/Documents/Praktika/screensaver/build/Desktop-Debug/screensaver_autogen/timestamp	295712b13b1d546d
+2	23	1752158139153325349	/home/neochen/Documents/Praktika/screensaver/build/Desktop-Debug/screensaver_autogen/mocs_compilation.cpp	295712b13b1d546d
+24	1251	1752158139175325349	CMakeFiles/screensaver.dir/mainwindow.cpp.o	f8570919764d92d4
+1251	1428	1752158140402325343	screensaver	4fb2487fbd49b0fe
